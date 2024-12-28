@@ -38,4 +38,3 @@ const Recommended = ({ categoryID }) => {
 };
 
 export default Recommended;
-
